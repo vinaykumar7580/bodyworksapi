@@ -1,926 +1,762 @@
 {
   "Body-Lotion": [
     {
-      
-      "id":1,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw4a0e1e8f/large/026338987.jpg",
+      "id": 1,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw4a0e1e8f/large/026338987.jpg",
       "link": "Winter Candy Apple",
       "sub-title": "Body Lotion",
-      "value": "₹1,999.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555328272"
+      "value": "1,999.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id":2,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5e80721d/large/026338400.jpg",
+      "id": 2,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5e80721d/large/026338400.jpg",
       "link": "Winter Candy Apple",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555317306"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id":3,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf5b6105b/large/026338428.jpg",
+      "id": 3,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf5b6105b/large/026338428.jpg",
       "link": "Winter Candy Apple",
       "sub-title": "Body Lotion",
-      "value": "₹899.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555317580"
+      "value": "899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id":4,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw3f7e4b8b/large/026338986.jpg",
+      "id": 4,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw3f7e4b8b/large/026338986.jpg",
       "link": "Vanilla Bean Noel",
       "sub-title": "Body Lotion",
-      "value": "₹1,999.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555328265"
+      "value": "1,999.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id":5,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwfa3f58fa/large/026335799.jpg",
+      "id": 5,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwfa3f58fa/large/026335799.jpg",
       "link": "Vanilla Bean Noel",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555254090"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id":6,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwaad822f0/large/026338982.jpg",
+      "id": 6,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwaad822f0/large/026338982.jpg",
       "link": "Vanilla Bean Noel",
       "sub-title": "Body Butter",
-      "value": "₹2,499.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555328227"
+      "value": "2,499.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      "id":7,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwd6bc6fa0/large/026347222.jpg",
+      "id": 7,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwd6bc6fa0/large/026347222.jpg",
       "link": "Winterberry Wonder",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555411622"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      "id":8,
-      "tile-image src src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw71591189/large/026098883.jpg",
+      "id": 8,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw71591189/large/026098883.jpg",
       "link": "Ocean",
       "sub-title": "Body Lotion",
-      "value": "₹1,649.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555044158"
+      "value": "1,649.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id":9,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw9fed56b3/large/026414222.jpg",
+      "id": 9,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw9fed56b3/large/026414222.jpg",
       "link": "Passionfruit and Banana Flower",
       "sub-title": "Body Lotion",
-      "value": "₹2,499.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555984782"
+      "value": "2,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      "id":10,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwfe48fb57/large/026354086.jpg",
+      "id": 10,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwfe48fb57/large/026354086.jpg",
       "link": "Pure Wonder",
       "sub-title": "Body Lotion",
-      "value": "₹1,649.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555466356"
+      "value": "1,649.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      "id":11,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw3c395942/large/026360583.jpg",
+      "id": 11,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw3c395942/large/026360583.jpg",
       "link": "Dark Kiss",
       "sub-title": "Body Lotion",
-      "value": "₹1,649.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555499316"
+      "value": "1,649.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id":12,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw1b08ffe7/large/026354087.jpg",
+      "id": 12,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw1b08ffe7/large/026354087.jpg",
       "link": "You're the One",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555466363"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      "id":13,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwd3efdbaa/large/026475520.jpg",
+      "id": 13,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwd3efdbaa/large/026475520.jpg",
       "link": "Champagne Toast",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556568431"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      "id":14,
-     "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw34847132/large/026455068.jpg",
+      "id": 14,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw34847132/large/026455068.jpg",
       "link": "Summer Melody",
       "sub-title": "Daily Nourishing Body Lotion",
-      "value": "₹1,499.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556386202"
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id":15,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw9e89727f/large/026502463.jpg",
+      "id": 15,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw9e89727f/large/026502463.jpg",
       "link": "Into the Night",
       "sub-title": "Body Lotion",
-      "value": "₹1,649.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556804713"
+      "value": "1,649.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      "id":16,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw117ab55a/large/022845428.jpg",
+      "id": 16,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw117ab55a/large/022845428.jpg",
       "link": "Dark Kiss",
       "sub-title": "Body Lotion",
-      "value": "₹1,499.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555316385"
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id":17,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw7e51d026/large/026402533.jpg",
+      "id": 17,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw7e51d026/large/026402533.jpg",
       "link": "Copper Coconut Sands",
       "sub-title": "Body Lotion",
-      "value": "₹1,499.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555912419"
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      "id":18,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf271a347/large/026414637.jpg",
+      "id": 18,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf271a347/large/026414637.jpg",
       "link": "Butterfly",
       "sub-title": "Body Lotion",
-      "value": "₹1,499.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556002805"
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id":19,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwfe304815/large/026354088.jpg",
+      "id": 19,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwfe304815/large/026354088.jpg",
       "link": "In the Stars",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555466370"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id":20,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw231de4ed/large/026355871.jpg",
+      "id": 20,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw231de4ed/large/026355871.jpg",
       "link": "Frosted Coconut Snowball",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555497688"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-     "id":21,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw91d118c2/large/026346730.jpg",
+      "id": 21,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw91d118c2/large/026346730.jpg",
       "link": "A Thousand Christmas Wishes",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555403702"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id":22,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwce3946b1/large/026355872.jpg",
+      "id": 22,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwce3946b1/large/026355872.jpg",
       "link": "Twinkling Midnight Sky",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555497695"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      "id":23,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw8f41fe8d/large/026355873.jpg",
+      "id": 23,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw8f41fe8d/large/026355873.jpg",
       "link": "Fireside Flurries",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555497701"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id":24,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwbed1a7a6/large/026346731.jpg",
+      "id": 24,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwbed1a7a6/large/026346731.jpg",
       "link": "Snowflakes and Cashmere",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555403719"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id":25,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw91b97bc8/large/026347253.jpg",
+      "id": 25,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw91b97bc8/large/026347253.jpg",
       "link": "Snowflakes and Cashmere",
       "sub-title": "Body Butter",
-      "value": "₹2,499.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555412018"
+      "value": "2,499.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      "id":26,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5fafd899/large/026355870.jpg",
+      "id": 26,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5fafd899/large/026355870.jpg",
       "link": "Twisted Peppermint",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555497671"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id":27,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw7da4df83/large/026360443.jpg",
+      "id": 27,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw7da4df83/large/026360443.jpg",
       "link": "Iced Raspberry Bellini",
       "sub-title": "Body Lotion",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555536400"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     }
   ],
 
+  "Fragrance": [
+    {
+      "id": 28,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw08119717/large/026393537.jpg",
+      "link": "Gingham Love",
+      "sub-title": "Fine Fragrance Mist",
+      "value": "1,599.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 29,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwec7970c3/large/026502475.jpg",
+      "link": "Into the Night",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,899.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 30,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw133618b4/large/026434227.jpg",
+      "link": "At the Beach",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,799.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 31,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw54362fb5/large/026413919.jpg",
+      "link": "Gingham",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,599.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 32,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw88045e58/large/026413935.jpg",
+      "link": "Gingham",
+      "sub-title": "Travel Size Fine Fragrance Mist",
+      "value": "799.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1"
+    },
+    {
+      "id": 33,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw92ec0f72/large/026265460.jpg",
+      "link": "At the Beach",
+      "sub-title": "Fine Fragrance Mist",
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 34,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw18721fe4/large/026434225.jpg",
+      "link": "Fairytale",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,799.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 35,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw22024a69/large/026414211.jpg",
+      "link": "Fiji Sunshine Guava-tini",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,599.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 36,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw4a108657/large/026355880.jpg",
+      "link": "Twinkling Midnight Sky",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
+    },
+    {
+      "id": 37,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw25a2ca50/large/026307889.jpg",
+      "link": "Pure Wonder",
+      "sub-title": "Eau de Parfum",
+      "value": "4,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 38,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwff9f9329/large/026335795.jpg",
+      "link": "Vanilla Bean Noel",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
+    },
+    {
+      "id": 39,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwb000b95c/large/026394956.jpg",
+      "link": "Marble",
+      "sub-title": "Body Spray",
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 40,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw71ade07e/large/022206191.jpg",
+      "link": "Mad About You",
+      "sub-title": "Fine Fragrance Mist",
+      "value": "1,699.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 41,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwfb2704e1/large/026434222.jpg",
+      "link": "Pure Wonder",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,799.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 42,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwe87ed87f/large/026338424.jpg",
+      "link": "Winter Candy Apple",
+      "sub-title": "Body Spray and Mist",
+      "value": "899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
+    },
+    {
+      "id": 43,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw84c134ac/large/026439470.jpg",
+      "link": "Japanese Cherry Blossom",
+      "sub-title": "Body Spray and Mist",
+      "value": "799.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1"
+    },
+    {
+      "id": 44,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw492e35e0/large/026346743.jpg",
+      "link": "Snowflakes and Cashmere",
+      "sub-title": "Body Spray and Mist",
+      "value": "899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
+    },
+    {
+      "id": 45,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw34faa996/large/026438417.jpg",
+      "link": "Mad About You",
+      "sub-title": "Travel Size Fine Fragrance Mist",
+      "value": "799.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1"
+    },
+    {
+      "id": 46,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5e49aa59/large/026501208.jpg",
+      "link": "A Thousand Wishes",
+      "sub-title": "Body Spray and Mist",
+      "value": "899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1"
+    },
+    {
+      "id": 47,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw734bd1f7/large/026502457.jpg",
+      "link": "Into the Night",
+      "sub-title": "Body Spray and Mist",
+      "value": "899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1"
+    },
+    {
+      "id": 48,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw6c3848b5/large/026438534.jpg",
+      "link": "Japanese Cherry Blossom",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,899.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 49,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwc644ad13/large/026459599.jpg",
+      "link": "Hibiscus Paradise",
+      "sub-title": "Fine Fragrance Mist",
+      "value": "1,599.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 50,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw562422a3/large/026355879.jpg",
+      "link": "Frosted Coconut Snowball",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
+    },
+    {
+      "id": 51,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwa8e7da0d/large/026347811.jpg",
+      "link": "Tea Tree Peppermint",
+      "sub-title": "Essential Oil Mist",
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 52,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw9f850b77/large/026346734.jpg",
+      "link": "A Thousand Christmas Wishes",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
+    },
+    {
+      "id": 53,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf82ff901/large/026414639.jpg",
+      "link": "Butterfly",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,599.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 54,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwacf837ef/large/026394953.jpg",
+      "link": "Bourbon",
+      "sub-title": "Body Spray",
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 55,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw2bd80545/large/026434223.jpg",
+      "link": "You're the One",
+      "sub-title": "Fine Fragrance Mist",
+      "value": "1,699.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 56,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf096e47b/large/026413953.jpg",
+      "link": "Butterfly",
+      "sub-title": "Eau de Toilette and Parfum",
+      "value": "4,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 57,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw329d03d3/large/026438416.jpg",
+      "link": "Dark Kiss",
+      "sub-title": "Travel Size Fine Fragrance Mist",
+      "value": "799.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1"
+    },
+    {
+      "id": 58,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dweb8abe81/large/026290042.jpg",
+      "link": "You're the One",
+      "sub-title": "Travel Size Fine Fragrance Mist",
+      "value": "699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1"
+    },
+    {
+      "id": 59,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw9d85a4b7/large/026139379.jpg",
+      "link": "You're the One",
+      "sub-title": "Eau de Parfum",
+      "value": "4,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 60,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwe36a8976/large/026347230.jpg",
+      "link": "Winterberry Wonder",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
+    },
+    {
+      "id": 61,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwe129aee6/large/026394954.jpg",
+      "link": "Teakwood",
+      "sub-title": "Body Spray",
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 62,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwa150ab8d/large/026395536.jpg",
+      "link": "Ocean",
+      "sub-title": "Body Spray",
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    },
+    {
+      "id": 63,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw05e56f79/large/026434253.jpg",
+      "link": "Sweet Pea",
+      "sub-title": "Body Spray and Mist",
+      "value": "1,799.00",
+      "tile-promotion-plp": "Buy3, Get1"
+    }
+  ],
 
-
-  "Fragrance":[   
-       
-        {
-          "id":28 ,
-         "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw08119717/large/026393537.jpg",
-          "link": "Gingham Love",
-          "sub-title": "Fine Fragrance Mist",
-          "value": "₹1,599.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555840705"
-        },
-        {
-          
-          "id":29,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwec7970c3/large/026502475.jpg",
-          "link": "Into the Night",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,899.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556804836"
-        },
-        {
-          
-          "id":30 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw133618b4/large/026434227.jpg",
-          "link": "At the Beach",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,799.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556131987"
-        },
-        {
-          "id":31,
-          "imagemage src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw54362fb5/large/026413919.jpg",
-          "link": "Gingham",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,599.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556001822"
-        },
-        {
-          "id":32,
-          "imagemage src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw88045e58/large/026413935.jpg",
-          "link": "Gingham",
-          "sub-title": "Travel Size Fine Fragrance Mist",
-          "value": "₹799.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556001983"
-        },
-        {
-          
-          "id":33,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw92ec0f72/large/026265460.jpg",
-          "link": "At the Beach",
-          "sub-title": "Fine Fragrance Mist",
-          "value": "₹1,499.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667554653689"
-        },
-        {
-          "id":34,
-          "imagemage src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw18721fe4/large/026434225.jpg",
-          "link": "Fairytale",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,799.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556131963"
-        },
-        {
-          
-          "id":35 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw22024a69/large/026414211.jpg",
-          "link": "Fiji Sunshine Guava-tini",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,599.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555984676"
-        },
-        {
-          
-          "id":36 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw4a108657/large/026355880.jpg",
-          "link": "Twinkling Midnight Sky",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,899.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555497770"
-        },
-        {
-          "id":37 ,
-        "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw25a2ca50/large/026307889.jpg",
-          "link": "Pure Wonder",
-          "sub-title": "Eau de Parfum",
-          "value": "₹4,499.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555047449"
-        },
-        {
-          
-          "id":38 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwff9f9329/large/026335795.jpg",
-          "link": "Vanilla Bean Noel",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,899.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555254052"
-        },
-        {
-          "id":39 ,
-          "imagemage src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwb000b95c/large/026394956.jpg",
-          "link": "Marble",
-          "sub-title": "Body Spray",
-          "value": "₹1,499.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555861892"
-        },
-        {
-          
-          "id":40 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw71ade07e/large/022206191.jpg",
-          "link": "Mad About You",
-          "sub-title": "Fine Fragrance Mist",
-          "value": "₹1,699.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556039054"
-        },
-        {
-          "id":41 ,
-        "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwfb2704e1/large/026434222.jpg",
-          "link": "Pure Wonder",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,799.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556131932"
-        },
-        {
-          
-          "id":42 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwe87ed87f/large/026338424.jpg",
-          "link": "Winter Candy Apple",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹899.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555317542"
-        },
-        {
-          
-          "id":43 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw84c134ac/large/026439470.jpg",
-          "link": "Japanese Cherry Blossom",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹799.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556246544"
-        },
-        {
-          
-          "id":44 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw492e35e0/large/026346743.jpg",
-          "link": "Snowflakes and Cashmere",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹899.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555404037"
-        },
-        {
-          
-          "id": 45,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw34faa996/large/026438417.jpg",
-          "link": "Mad About You",
-          "sub-title": "Travel Size Fine Fragrance Mist",
-          "value": "₹799.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556039078"
-        },
-        {
-          
-          "id":46 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5e49aa59/large/026501208.jpg",
-          "link": "A Thousand Wishes",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹899.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556796865"
-        },
-        {
-          
-          "id":47 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw734bd1f7/large/026502457.jpg",
-          "link": "Into the Night",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹899.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556804355"
-        },
-        {
-          
-          "id":48 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw6c3848b5/large/026438534.jpg",
-          "link": "Japanese Cherry Blossom",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,899.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556218572"
-        },
-        {
-          
-           "id":49 ,        "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwc644ad13/large/026459599.jpg",
-          "link": "Hibiscus Paradise",
-          "sub-title": "Fine Fragrance Mist",
-          "value": "₹1,599.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556489743"
-        },
-        {
-          
-          "id":50 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw562422a3/large/026355879.jpg",
-          "link": "Frosted Coconut Snowball",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,899.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555497763"
-        },
-        {
-          
-          "id":51 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwa8e7da0d/large/026347811.jpg",
-          "link": "Tea Tree Peppermint",
-          "sub-title": "Essential Oil Mist",
-          "value": "₹1,499.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555404488"
-        },
-        {
-          
-           "id":52 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw9f850b77/large/026346734.jpg",
-          "link": "A Thousand Christmas Wishes",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,899.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555403740"
-        },
-        {
-          "id":53 ,
-          "imagemage src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf82ff901/large/026414639.jpg",
-          "link": "Butterfly",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,599.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556002829"
-        },
-        {
-          "id":54 ,
-          "imagemage src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwacf837ef/large/026394953.jpg",
-          "link": "Bourbon",
-          "sub-title": "Body Spray",
-          "value": "₹1,499.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555861861"
-        },
-        {
-          
-          "id": 55,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw2bd80545/large/026434223.jpg",
-          "link": "You're the One",
-          "sub-title": "Fine Fragrance Mist",
-          "value": "₹1,699.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556131949"
-        },
-        {
-          "id":56 ,
-          "imagemage src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf096e47b/large/026413953.jpg",
-          "link": "Butterfly",
-          "sub-title": "Eau de Toilette and Parfum",
-          "value": "₹4,499.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556002089"
-        },
-        {
-          
-           "id":57 ,        "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw329d03d3/large/026438416.jpg",
-          "link": "Dark Kiss",
-          "sub-title": "Travel Size Fine Fragrance Mist",
-          "value": "₹799.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556039061"
-        },
-        {
-          
-          "id":58 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dweb8abe81/large/026290042.jpg",
-          "link": "You're the One",
-          "sub-title": "Travel Size Fine Fragrance Mist",
-          "value": "₹699.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667554916319"
-        },
-        {
-          
-          "id":59 ,
-          "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw9d85a4b7/large/026139379.jpg",
-          "link": "You're the One",
-          "sub-title": "Eau de Parfum",
-          "value": "₹4,499.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667553590688"
-        },
-        {
-          
-           "id":60 ,        "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwe36a8976/large/026347230.jpg",
-          "link": "Winterberry Wonder",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,899.00",
-          "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555411707"
-        },
-        {
-          "id":61 ,
-          "imagemage src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwe129aee6/large/026394954.jpg",
-          "link": "Teakwood",
-          "sub-title": "Body Spray",
-          "value": "₹1,499.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555861878"
-        },
-        {
-          "id":62 ,
-          "imagemage src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwa150ab8d/large/026395536.jpg",
-          "link": "Ocean",
-          "sub-title": "Body Spray",
-          "value": "₹1,499.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555884549"
-        },
-        {
-          "id":63 ,
-        "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw05e56f79/large/026434253.jpg",
-          "link": "Sweet Pea",
-          "sub-title": "Body Spray and Mist",
-          "value": "₹1,799.00",
-          "tile-promotion-plp": "Buy3, Get1",
-          "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556141528"
-        }
-      ],
-    
   "Body-wash": [
     {
-      
-      "id" :64,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw3c1f14ab/large/026338412.jpg",
+      "id": 64,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw3c1f14ab/large/026338412.jpg",
       "link": "Winter Candy Apple",
       "sub-title": "Moisturizing Body Wash",
-      "value": "₹1,799.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555317429"
+      "value": "1,799.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id" :65,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwaab4e6e9/large/026338432.jpg",
+      "id": 65,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwaab4e6e9/large/026338432.jpg",
       "link": "Winter Candy Apple",
       "sub-title": "Travel Size Shower Gel",
-      "value": "₹899.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555317627"
+      "value": "899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id" :66,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw8912f293/large/026338411.jpg",
+      "id": 66,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw8912f293/large/026338411.jpg",
       "link": "Vanilla Bean Noel",
       "sub-title": "Moisturizing Body Wash",
-      "value": "₹1,799.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555317412"
+      "value": "1,799.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id" :67,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw93126094/large/026502529.jpg",
+      "id": 67,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw93126094/large/026502529.jpg",
       "link": "A Thousand Wishes",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,649.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556796476"
+      "value": "1,649.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :68,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw14078da6/large/026502545.jpg",
+      "id": 68,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw14078da6/large/026502545.jpg",
       "link": "A Thousand Wishes",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,999.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556804539"
+      "value": "1,999.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :69,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwdd0b4187/large/026501214.jpg",
+      "id": 69,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwdd0b4187/large/026501214.jpg",
       "link": "A Thousand Wishes",
       "sub-title": "Travel Size Shower Gel",
-      "value": "₹899.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556804621"
+      "value": "899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1"
     },
     {
-      
-      "id" :70,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw3802fbfb/large/026502471.jpg",
+      "id": 70,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw3802fbfb/large/026502471.jpg",
       "link": "Into the Night",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,999.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556804799"
+      "value": "1,999.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :71,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5705fca6/large/026502461.jpg",
+      "id": 71,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5705fca6/large/026502461.jpg",
       "link": "Into the Night",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹899.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556804393"
+      "value": "899.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1"
     },
     {
-      
-      "id" :72,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw90dd6339/large/026355147.jpg",
+      "id": 72,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw90dd6339/large/026355147.jpg",
       "link": "Into the Night",
       "sub-title": "Bubble Bath",
-      "value": "₹2,299.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555477703"
+      "value": "2,299.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :73,
-      "title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwce4d2681/large/026402390.jpg",
+      "id": 73,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwce4d2681/large/026402390.jpg",
       "link": "Eucalyptus Sage",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555911443"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id" :74,
-      "title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw2afed8f0/large/026300693.jpg",
+      "id": 74,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw2afed8f0/large/026300693.jpg",
       "link": "Fairytale",
       "sub-title": "Shower Gel",
-      "value": "₹1,299.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667554984004"
+      "value": "1,299.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id":75,
-      "title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5463a152/large/026307899.jpg",
+      "id": 75,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5463a152/large/026307899.jpg",
       "link": "Pure Wonder",
       "sub-title": "Shower Gel",
-      "value": "₹1,499.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555047845"
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :77,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw915aed1b/large/026347802.jpg",
+      "id": 77,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw915aed1b/large/026347802.jpg",
       "link": "Black Currant Cedarwood",
       "sub-title": "Body Wash and Foam Bath",
-      "value": "₹1,499.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555404396"
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :78,
-      "title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwdee4d884/large/026360034.jpg",
+      "id": 78,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwdee4d884/large/026360034.jpg",
       "link": "Eucalyptus Spearmint",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹799.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555536165"
+      "value": "799.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 1"
     },
     {
-      
-      "id":79,
-      "title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwe55668f8/large/026470502.jpg",
+      "id": 79,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwe55668f8/large/026470502.jpg",
       "link": "Rainbow Waves",
       "sub-title": "Shower Gel",
-      "value": "₹1,399.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556488395"
+      "value": "1,399.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id":80,
-      "title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw7fad581c/large/026455072.jpg",
+      "id": 80,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw7fad581c/large/026455072.jpg",
       "link": "Summer Melody",
       "sub-title": "Moisturizing Body Wash",
-      "value": "₹1,599.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556386240"
+      "value": "1,599.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :81,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw03537429/large/026400314.jpg",
+      "id": 81,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw03537429/large/026400314.jpg",
       "link": "Strawberry Pound Cake",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,399.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555895439"
+      "value": "1,399.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :82,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw1bfc2d81/large/022206189.jpg",
+      "id": 82,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw1bfc2d81/large/022206189.jpg",
       "link": "MAD ABOUT YOU",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,399.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667554626300"
+      "value": "1,399.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id":83,
-      "title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwaaf6ae62/large/026400315.jpg",
+      "id": 83,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwaaf6ae62/large/026400315.jpg",
       "link": "Champagne Toast",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,399.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555895446"
+      "value": "1,399.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :84,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw59079505/large/026402389.jpg",
+      "id": 84,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw59079505/large/026402389.jpg",
       "link": "Cedarwood Ylang Ylang",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555911436"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id" :85,
-      "title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw4140ae32/large/026393543.jpg",
+      "id": 85,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw4140ae32/large/026393543.jpg",
       "link": "Gingham Love",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,399.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555840767"
+      "value": "1,399.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :86,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw73fd1c7b/large/026408299.jpg",
+      "id": 86,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw73fd1c7b/large/026408299.jpg",
       "link": "Fiji Sunshine Guava-tini",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,399.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555984553"
+      "value": "1,399.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :87,"title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwdbc86b02/large/026339219.jpg",
+      "id": 87,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwdbc86b02/large/026339219.jpg",
       "link": "Pure Wonder",
       "sub-title": "Bubble Bath",
-      "value": "₹2,499.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555348508"
+      "value": "2,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :"",
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw7f034fa4/large/026139371.jpg",
+      "id": "",
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw7f034fa4/large/026139371.jpg",
       "link": "You're the One",
       "sub-title": "Shower Gel",
-      "value": "₹1,499.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667553590602"
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :88,"title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwd3bba92d/large/026353258.jpg",
+      "id": 88,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwd3bba92d/large/026353258.jpg",
       "link": "Eucalyptus Spearmint",
       "sub-title": "Hair Care",
-      "value": "₹1,699.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555454407"
+      "value": "1,699.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :89,
-      "title,-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwbf9e68bf/large/026353200.jpg",
+      "id": 89,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwbf9e68bf/large/026353200.jpg",
       "link": "Eucalyptus Spearmint",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,499.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555453455"
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :90,
-      "title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw0db6195d/large/026354288.jpg",
+      "id": 90,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw0db6195d/large/026354288.jpg",
       "link": "Lavender Vanilla",
       "sub-title": "Shower Steamers, 6-Pack",
-      "value": "₹1,999.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555477277"
+      "value": "1,999.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :91,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwc825cf05/large/026438524.jpg",
+      "id": 91,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwc825cf05/large/026438524.jpg",
       "link": "Japanese Cherry Blossom",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,499.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556218077"
+      "value": "1,499.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :92,
-      "tile-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5eda4480/large/026347245.jpg",
+      "id": 92,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5eda4480/large/026347245.jpg",
       "link": "Snowflakes and Cashmere",
       "sub-title": "Moisturizing Body Wash",
-      "value": "₹1,799.00",
-      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667555411936"
+      "value": "1,799.00",
+      "tile-promotion-plp": "Mix & Match: Buy 2, Get 2"
     },
     {
-      
-      "id" :93,
-       "title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwa98adef9/large/026300114.jpg",
+      "id": 93,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwa98adef9/large/026300114.jpg",
       "link": "Rose",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,999.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667554976405"
+      "value": "1,999.00",
+      "tile-promotion-plp": "Buy3, Get1"
     },
     {
-      
-      "id" :94,
-      "title-image src": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwacec36c3/large/026201518.jpg",
+      "id": 94,
+      "image": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwacec36c3/large/026201518.jpg",
       "link": "Hello Beautiful",
       "sub-title": "Body Wash and Shower Gel",
-      "value": "₹1,399.00",
-      "tile-promotion-plp": "Buy3, Get1",
-      "quickview href": "https://www.bathandbodyworks.in/on/demandware.store/Sites-BathAndBodyWorks-Site/default/Product-ShowQuickView?pid=667556221176"
+      "value": "1,399.00",
+      "tile-promotion-plp": "Buy3, Get1"
     }
   ]
-
 }
